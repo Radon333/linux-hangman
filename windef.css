@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+}
+body 
+{
+    background-image:url("bg.jpg");
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+}
+
+.btn-primary btn-lg
+{
+    justify-content:center;
+    text-align: center;
+}

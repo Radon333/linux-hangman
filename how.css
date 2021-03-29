@@ -1,0 +1,18 @@
+body 
+{
+    background-image:url("bg.jpg");
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+}
+header
+{
+    text-align: center;
+    color:white;
+}
+#inst
+{
+    font-size: x-large;
+    color: wheat;
+    text-align: center;
+}

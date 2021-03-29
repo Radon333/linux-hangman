@@ -1,0 +1,53 @@
+<html>
+    <head>
+    <title>Game</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="index.css">
+    <script src=main.js></script>
+    <script>
+        function playbg() {
+          var audio = document.getElementById("audio");
+          audio.play();
+        }
+        function pausebg(){
+            var audio = document.getElementById("audio");
+            audio.pause();
+        }
+      </script>
+    </head>
+    <body>
+        <div class="wrapper">
+            <h1>Hangman</h1>
+            <br>
+            <div class="audio-controls">
+              <h2>Audio Controls:</h2>
+              <br>
+                <i class="fa fa-volume-up fa-2x " id="volup" aria-hidden="true" onclick=playbg()></i>
+             <audio id="audio" src="bg_music.mp3"></audio>
+              <i class="fa fa-volume-off fa-2x" id="voldow" aria-hidden="true" onclick=pausebg()></i>
+            </div>
+             <div class="timer-countdown">
+             <h2>Seconds left:</h2>
+             <h2 id="time-left">45</h2>
+             </div>
+             <div class="wrapper">
+             <div id="buttons">
+             </div>  
+             <p id="catagoryName"></p>
+             <div id="hold">
+             </div>
+             <p id="mylives"></p>
+             <p id="clue">Question -</p>  
+              <canvas id="stickman">This Text will show if the Browser does NOT support HTML5 Canvas tag</canvas>
+             <div class="container">
+               <button id="hint">View Question</button>
+               <button id="reset">Reset</button>
+               <a href="index.html">
+                <button type="button">Main Menu</button>
+              </a>
+             </div>
+         </div>
+    </body>
+    <script src="timer.js" charset="utf-8"></script>
+</html>

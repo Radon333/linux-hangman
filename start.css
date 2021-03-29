@@ -1,0 +1,36 @@
+body 
+{
+    background-image:url("bg.jpg");
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+}
+
+header
+{
+    text-align: center;
+    color:white;
+}
+
+#story
+{
+    text-align: center;
+    color:aquamarine;
+    font-size: 5vh;;
+    font-family: 'Share Tech', sans-serif;
+}
+
+#howb
+{
+  text-align: center;
+}
+#play
+{
+  color:black;
+  border-color: black;
+}
+#play:hover
+{
+  color:red;
+  border-color: red;
+}

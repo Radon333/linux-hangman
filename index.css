@@ -1,0 +1,34 @@
+.timer-countdown
+{
+    margin-top:5px;
+    margin-right:5px;
+    position:absolute;
+    top:0;
+    right:0;
+    color:aquamarine;
+}
+
+
+.audio-controls
+{
+    margin-top:5px;
+    margin-left:5px;
+    position:absolute;
+    top:0;
+    left:0;
+    padding:0;
+    justify-content: center;
+    color:aquamarine
+}
+
+
+#volup
+{
+    padding-right:10px;
+}
+
+#volup
+{
+    padding-left:10px;
+}
+
