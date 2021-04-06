@@ -17,7 +17,16 @@ Once the user clicks start game.The game page opens.The user has to view questio
 On winning or losing the user is redirected to winning or losing page.
 
 ### Screenshots
-
+**Main Menu**
+![image](https://drive.google.com/file/d/1OMs4BYAfHlgCytRXppvc1byXQ36UNi4l/view?usp=sharing)
+**Gameplay**
+![image](https://drive.google.com/file/d/1Lu6j60CYoqBWhXbWcM8vzM-SPiawEtDp/view?usp=sharing)
+**Gameplay**
+![image](https://drive.google.com/file/d/1SC1Sx-QdgtHFMLyx-umx58CA44t21J98/view?usp=sharing)
+**Win**
+![image](https://drive.google.com/file/d/1XaG545gcKqk_CdBSn53qpPPp8sPTn5Q4/view?usp=sharing)
+**Defeat**
+![image](https://drive.google.com/file/d/1rVfW38psJp56QfwTtRDcX_8NXbcGOci7/view?usp=sharing)
 ### Conclusion
 
 The game tries its best to impart learning with fun.It is developer friendly too,since more questions and answers can be added to the game without any coding. (_Just have to append the question and answer in the coressponding array_)
