@@ -19,6 +19,8 @@ On winning or losing the user is redirected to winning or losing page.
 ### Screenshots
 **Main Menu**
 ![image](https://drive.google.com/file/d/1OMs4BYAfHlgCytRXppvc1byXQ36UNi4l/view?usp=sharing)
+**How to play**
+![image](https://drive.google.com/file/d/1OMs4BYAfHlgCytRXppvc1byXQ36UNi4l/view?usp=sharing)
 **Gameplay**
 ![image](https://drive.google.com/file/d/1Lu6j60CYoqBWhXbWcM8vzM-SPiawEtDp/view?usp=sharing)
 **Gameplay**
