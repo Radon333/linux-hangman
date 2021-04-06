@@ -18,17 +18,17 @@ On winning or losing the user is redirected to winning or losing page.
 
 ### Screenshots
 **Main Menu**
-![image](https://drive.google.com/file/d/1OMs4BYAfHlgCytRXppvc1byXQ36UNi4l/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/25654606/113657305-53911580-96bb-11eb-88b2-21938186b433.png)
 **How to play**
-![image](https://drive.google.com/file/d/1OMs4BYAfHlgCytRXppvc1byXQ36UNi4l/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/25654606/113657317-57bd3300-96bb-11eb-8d51-9f1f5a324462.jpg)
 **Gameplay**
-![image](https://drive.google.com/file/d/1Lu6j60CYoqBWhXbWcM8vzM-SPiawEtDp/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/25654606/113657323-5986f680-96bb-11eb-96b2-b7327f646102.jpg)
 **Gameplay**
-![image](https://drive.google.com/file/d/1SC1Sx-QdgtHFMLyx-umx58CA44t21J98/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/25654606/113657327-5a1f8d00-96bb-11eb-85d9-6cdde7011263.jpg)
 **Win**
-![image](https://drive.google.com/file/d/1XaG545gcKqk_CdBSn53qpPPp8sPTn5Q4/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/25654606/113657331-5b50ba00-96bb-11eb-9428-155f4be15645.jpg)
 **Defeat**
-![image](https://drive.google.com/file/d/1rVfW38psJp56QfwTtRDcX_8NXbcGOci7/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/25654606/113657333-5be95080-96bb-11eb-89ff-7185eddcb2cf.jpg)
 ### Conclusion
 
 The game tries its best to impart learning with fun.It is developer friendly too,since more questions and answers can be added to the game without any coding. (_Just have to append the question and answer in the coressponding array_)
