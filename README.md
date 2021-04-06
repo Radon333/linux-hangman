@@ -16,7 +16,7 @@ The link opens as main menu of the game where the storyline of the game is expla
 Once the user clicks start game.The game page opens.The user has to view question and guess the word before the timer and lives go down to zero.
 On winning or losing the user is redirected to winning or losing page.
 
-###Screenshots
+### Screenshots
 
 ### Conclusion
 
